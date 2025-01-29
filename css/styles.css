@@ -124,6 +124,10 @@ h1{
     gap: 60px;
 }
 
+.conteneur-transport.invisible{
+    opacity: 0;
+}
+
 article h3{
     font-size: 36px;
     font-weight: 400;
